@@ -34,14 +34,14 @@ function HeroSection() {
           <div className="my-12 flex items-center gap-5">
             <Link
               href={personalData.github}
-              target='_blank'
+              target='https://github.com/GayaniDewindiVitharana'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <BsGithub size={30} />
             </Link>
             <Link
               href={personalData.linkedIn}
-              target='_blank'
+              target='https://www.linkedin.com/in/gayani-vitharana-6607452b0/'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <BsLinkedin size={30} />
