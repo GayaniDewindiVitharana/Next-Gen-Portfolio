@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
-import { certificates } from "../lib/certificates";
+import { certificates } from "../Certificate/certificatess";
 import AboutBack from "../assets/About/AboutBack.png";
 
 const Certificate = ({ onViewMore }) => {
