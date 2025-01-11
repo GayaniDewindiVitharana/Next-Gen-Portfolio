@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion"; // Import motion from framer-motion
 import { certificates } from "../Certificate/certificates";
-import AboutBack from "../../assets/";
+import AboutBack from "../../assets/svg/certificate/AboutBack.png";
 
 const MoreCertificate = () => {
   const [currentPage, setCurrentPage] = useState(1);

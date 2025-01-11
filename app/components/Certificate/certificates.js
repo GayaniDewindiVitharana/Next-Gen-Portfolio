@@ -1,27 +1,27 @@
 // certificates.js
-import JavaHR from "../assets/Certificate/JavaHR.png";
-import ProblemSL from "../assets/Certificate/problemslov.png";
-import UOMPY from "../assets/Certificate/uompy.png";
-import UOMWeb from "../assets/Certificate/webuom.png";
-import DataScience from "../assets/Certificate/DataScience.png"
-import JQuery from "../assets/Certificate/JQuery.png"
-import PHP from "../assets/Certificate/PHP.png"
-import Angular from "../assets/Certificate/Angular.jpg"
-import DevTown from "../assets/Certificate/dewTown1.png"
-import DevTown1 from "../assets/Certificate/dewTown2.png"
-import Python from "../assets/Certificate/python.png"
-import Javascript from "../assets/Certificate/javascript.png"
-import CodingForMarkert from "../assets/Certificate/CodingforMarkert.png"
-import ReactAndRedux from "../assets/Certificate/React_Redux.png"
-import ResponsiveWebDesign from "../assets/Certificate/ResponsiveWebDesign.png"
-import SQL from "../assets/Certificate/sql.png"
-import IntroductionTOJava from "../assets/Certificate/itjava.png"
-import SQLSOLO from "../assets/Certificate/sqlsolo.png"
-import CSSSOLO from "../assets/Certificate/csssolo.png"
-import JsSolo from "../assets/Certificate/JAVASCRIPTSOLO.png"
-import JavaSolo from "../assets/Certificate/javaSolo.png"
-import Front from "../assets/Certificate/font.png"
-import WebDev from "../assets/Certificate/webdev.png"
+import JavaHR from "../../assets/svg/certificate/java s.png";
+import ProblemSL from "../../assets/svg/certificate/Android_Application_GL.png";
+import UOMPY from "../../assets/svg/certificate/Angular_GL.png";
+import UOMWeb from "../../assets/svg/certificate/Billd_Game_JavaStript.png";
+import DataScience from "../../assets/svg/certificate/client-server.png"
+import JQuery from "../../assets/svg/certificate/Coding_Eng_GL.png"
+import PHP from "../../assets/svg/certificate/CSS_Oppetion.png"
+import Angular from "../../assets/svg/certificate/Data_Strat_GL.png"
+import DevTown from "../../assets/svg/certificate/DesingThinking_GL.png"
+import DevTown1 from "../../assets/svg/certificate/DevOps_GL.png"
+import Python from "../../assets/svg/certificate/dew2.png"
+import Javascript from "../../assets/svg/certificate/Dow01.png"
+import CodingForMarkert from "../../assets/svg/certificate/Game_GL.png"
+import ReactAndRedux from "../../assets/svg/certificate/greatleaning-java.jpeg"
+import ResponsiveWebDesign from "../../assets/svg/certificate/greatleaning-oop.jpeg"
+import SQL from "../../assets/svg/certificate/greatlening-css.jpeg"
+import IntroductionTOJava from "../../assets/svg/certificate/grUxUi.png.jpeg"
+import SQLSOLO from "../../assets/svg/certificate/HTTML_TAG_GL.png"
+import CSSSOLO from "../../assets/svg/certificate/JavaApplication.png"
+import JsSolo from "../../assets/svg/certificate/javah.png"
+import JavaSolo from "../../assets/svg/certificate/jQuriy_GL.png"
+import Front from "../../assets/svg/certificate/MOratuw02.png"
+import WebDev from "../../assets/svg/certificate/salolearn-java.jpg"
 
 export const certificates = [
   { id: 1, title: "Java", date: "14 July 2022", image: JavaHR },
