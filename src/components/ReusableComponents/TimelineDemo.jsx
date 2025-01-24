@@ -1,11 +1,7 @@
 import React, { useState } from "react";
 import { Timeline } from "../../components/ui/timeline";
-import Aloysius from "../../assets/Education/St_aloysius_galle_logo.jpg";
-import Aloyz from "../../assets/Education/Aloyz.jpeg";
-import VTA from "../../assets/Education/VTA.jpeg";
-import VTA_Cover from "../../assets/Education/vocational_training_authority_cover.jpeg";
-import Esoft from "../../assets/Education/Esoft.jpeg";
-import Esoft_Cover from "../../assets/Education/esoftmetrocampus_cover.jpeg";
+import kccsl from "../../assets/Education/kccsl;.png";
+import kcc from "../../assets/Education/sll.png";
 import IJSE from "../../assets/Education/download.png";
 import IJSE_Cover from "../../assets/Education/1525318975288.png";
 import { motion } from "framer-motion";
@@ -16,26 +12,15 @@ export function TimelineDemo() {
   // Timeline data
   const timelineData = [
     {
-      title: "2017",
-      content: "G.C.E. Ordinary Level (2017) St. Aloysius College, Galle",
-      logo: Aloyz,
-      images: Aloysius,
+      title: "2020",
+      content: "G.C.E. Advanced Level Examination (2020) Ga/ Karandeniya Central College",
+      logo: kcc,
+      images: kccsl,
     },
+    
     {
-      title: "2018 - 2019",
-      content: "NVQ Level 3 & 4 (2018-2019) Vocational Training Authority",
-      logo: VTA,
-      images: VTA_Cover,
-    },
-    {
-      title: "2020 - 2021",
-      content: "Software Engineering Diploma (2020-2021) Esoft Metro Campus",
-      logo: Esoft,
-      images: Esoft_Cover,
-    },
-    {
-      title: "2022 - Present",
-      content: "Computer Science HND (2022 - Present) Institute of Software Engineering",
+      title: "2022 - 2024",
+      content: "Computer Science HND (2022 - 2024) Institute of Software Engineering",
       logo: IJSE,
       images: IJSE_Cover,
     },

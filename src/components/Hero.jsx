@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
-import HeroImage from "../assets/Home/Janith.png";
+import HeroImage from "../assets/Home/imgeavt.png";
 import HeroBck from "../assets/Home/HomeBG.png";
 import IntroVideo from "../assets/Home/intro.mp4";
 import PlayButton from "../assets/Home/PlayButton.png";
@@ -73,7 +73,7 @@ const Hero = () => {
             }}
             className="hidden md:block"
           >
-            JANITH
+            GAYANI
           </h1>
           <h1
             style={{
@@ -86,14 +86,14 @@ const Hero = () => {
             }}
             className="hidden md:block"
           >
-            NANAYAKKARA
+            VITHARANA
           </h1>
         </div>
 
         {/* Title */}
         <div className="relative z-10 text-center md:text-left">
           <h1 className="text-[50px] md:text-[120px] font-bold leading-none font-sans text-[#22CD6F]">
-            JANITH <br className="hidden md:block" /> NANAYAKKARA
+            GAYANI <br className="hidden md:block" /> VITHARANA
           </h1>
         </div>
 
@@ -103,17 +103,17 @@ const Hero = () => {
           variants={textVariants}
         >
           <span className="animate-gradient bg-gradient-to-r from-green-400 via-teal-500 to-green-400 bg-clip-text text-transparent">
-            Founder of
+            Fornd-End Developer  & 
           </span>
           <br className="hidden md:block" />
           <span className="animate-text text-transparent bg-gradient-to-r from-[#22CD6F] via-blue-400 to-[#22CD6F] bg-clip-text">
-            L
+          UI/UX
           </span>
-          egion
+          
           <span className="animate-text text-transparent bg-gradient-to-r from-[#22CD6F] via-blue-400 to-[#22CD6F] bg-clip-text">
-            C
+         
           </span>
-          ode IT Solution
+          Designer
         </motion.p>
 
         {/* Buttons */}
@@ -155,7 +155,7 @@ const Hero = () => {
         <motion.img
       src={HeroImage}
       alt="Hero"
-      className="w-[300px] md:w-auto h-auto max-w-full object-center"
+      className="w-[700px] md:w-auto h-auto max-w-full object-center"
       variants={imageVariants}
       initial="hidden"
       animate="visible"

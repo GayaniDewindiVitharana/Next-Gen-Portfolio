@@ -6,13 +6,6 @@ import { FaMobileAlt, FaLaptopCode, FaPencilRuler, FaPaintBrush, FaDatabase, FaR
 export function CanvasRevealEffectDemo() {
   return (
     <div className="grid grid-cols-1 gap-8 px-4 py-10 mx-auto bg-[#000000] sm:grid-cols-2 lg:grid-cols-3 dark:bg-black">
-      <Card
-        icon={<FaMobileAlt size={50} className="text-[#08D665]" />}
-        name="MOBILE DEVELOPMENT"
-        description1="Designing and developing innovative mobile applications using React Native, Flutter, and Swift for seamless and scalable experiences."
-      >
-        <CanvasRevealEffect animationSpeed={5.1} containerClassName="bg-[#064E3B]" />
-      </Card>
 
       <Card
         icon={<FaPencilRuler size={50} className="text-[#08D665]" />}
@@ -38,18 +31,25 @@ export function CanvasRevealEffectDemo() {
         <CanvasRevealEffect animationSpeed={5.1} containerClassName="bg-[#064E3B]" />
       </Card>
 
-      <Card
+      {/* <Card
         icon={<FaDatabase size={50} className="text-[#08D665]" />}
         name="BACKEND DEVELOPMENT"
         description1="Specializing in server-side solutions using Nest.js  Node.js, Express, and MongoDB Graphql , PostgreSQL , Sql Server ,Java , C# ,Python to build efficient and scalable systems."
       >
         <CanvasRevealEffect animationSpeed={5.1} containerClassName="bg-[#064E3B]" />
-      </Card>
+      </Card> */}
 
       <Card
         icon={<FaReact size={50} className="text-[#08D665]" />}
         name="FRONTEND DEVELOPMENT"
         description1="Delivering dynamic, user-friendly interfaces with React, Next.js, and Tailwind CSS, ensuring seamless interaction and performance."
+      >
+        <CanvasRevealEffect animationSpeed={5.1} containerClassName="bg-[#064E3B]" />
+      </Card>
+      <Card
+        icon={<FaMobileAlt size={50} className="text-[#08D665]" />}
+        name="MOBILE DEVELOPMENT"
+        description1="Designing and developing innovative mobile applications using React Native, Flutter, and Swift for seamless and scalable experiences."
       >
         <CanvasRevealEffect animationSpeed={5.1} containerClassName="bg-[#064E3B]" />
       </Card>

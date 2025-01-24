@@ -32,7 +32,7 @@ const Contact = () => {
     setError('');
 
     // Construct the mailto link
-    const mailtoLink = `mailto:janithnanayakkara0202@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
+    const mailtoLink = `mailto:gayanidewindi@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
       `Name: ${name}\nEmail: ${email}\nPhone: ${phone}\n\nMessage:\n${message}`
     )}`;
 
@@ -76,19 +76,19 @@ const Contact = () => {
           <div className="flex flex-row my-4">
             <img className="w-6 h-6" src={Telephone} alt="Telephone" />
             <p className="ml-2 text-xl font-bold md:text-xl">
-              +94 766 739 535 <br /> +94 783 383 747
+              +94 760 904 402 <br /> +94 783 383 747
             </p>
           </div>
           <div className="flex flex-row mb-4">
             <img className="w-6 h-6" src={Email} alt="Email" />
-            <p className="ml-4 text-xl font-bold md:text-l">janithnanayakkara0202@gmail.com</p>
+            <p className="ml-4 text-xl font-bold md:text-l">gayanidewindi@gmail.com</p>
           </div>
           <div className="flex flex-row mb-4">
             <img className="w-6 h-8" src={Location} alt="Location" />
             <p className="ml-4 text-xl font-bold md:text-l">
-              Galkatiya,
-              <br /> Goviyapana,
-              <br /> Ahangama.
+              536/B,
+              <br /> Hipankanda,
+              <br /> Nawadagal.
             </p>
           </div>
           <h2 className="text-3xl md:text-4xl text-[#08D665] font-bold uppercase mt-8">Follow me</h2>
@@ -136,7 +136,7 @@ const Contact = () => {
                   value={formData.phone}
                   onChange={handleChange}
                   className="mt-2 w-full p-4 border-2 border-[#08D665] text-white text-xs bg-[#000000] outline-none hover:ring-1 hover:ring-[#79e4a9]"
-                  placeholder="Ex. 076 5739 535"
+                  placeholder="Ex. 076 0904 402"
                 />
               </div>
             </div>

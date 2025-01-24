@@ -34,23 +34,17 @@ export function MeteorsDemo() {
           </h1>
 
           <p className="p-2 mt-8 text-white font">
-            Hi! I’m Janith Nanayakkara, 23 years old, and I’m a developer with a
-            passion for building clean web and desktop applications with
-            intuitive functionalities. I am always curious about learning new
-            skills, tools, and concepts. In addition to working on various solo
-            full-stack projects, I have collaborated with creative teams,
-            participating in daily stand-ups, communication, source control, and
-            project management. I am also the owner of LegionCode IT Solutions.
+            Hi! I’m Gayani Vitharana, 3 years old,I am a professional and enthusiastic UI/UX designer and frontend developer in my daily life.
+            I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving.
+            I love almost all the stacks of web application development and am dedicated to making the web more accessible to the world. 
+            I have completed my HND from the Institute of Java Software Engineering Campus.
+            I am available for any kind of job opportunity that suits my skills and interests.
           </p>
 
           <p className="p-2 my-4 text-white font">
             Throughout my career, I’ve embraced challenges and leveraged diverse
-            technologies to create impactful software solutions. Whether
-            building intuitive frontends, collaborating on backend development,
-            or optimizing websites for SEO, I thrive in dynamic environments. My
-            passion for learning and innovation drives me to constantly push the
-            limits of what’s possible, ensuring I deliver high-quality products
-            and contribute meaningfully to every project I undertake.
+            technologies to create impactful software solutions.I am a web designer &amp; developer, and I'm very passionate
+            and dedicated to work.
           </p>
 
           {/* Button to preview CV */}
