@@ -13,13 +13,13 @@ const SocialMedia = () => {
   return (
     <div className='flex flex-row gap-1 my-4 md:gap-2'>
       <div className='relative group'>
-        <a href="https://github.com/JanithNanayakkaraSE0612" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/GayaniDewindiVitharana" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={Github} alt="Github" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
       </div>
       <div className='relative group'>
-        <a href="https://www.linkedin.com/in/janith-nanayakkara-a73320233/" target="_blank" rel="noopener noreferrer">
+        <a href=" https://www.linkedin.com/in/gayani-vitharana-6607452b0/" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={Linkedin} alt="LinkedIn" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
@@ -44,19 +44,19 @@ const SocialMedia = () => {
       </div>
       {/* New social media icons */}
       <div className='relative group'>
-        <a href="https://stackoverflow.com/users/18631544/janith-nanayakkara" target="_blank" rel="noopener noreferrer">
+        <a href="h https://stackoverflow.com/users/21185624/gayani-vitharana" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={StackOverflow} alt="StackOverflow" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
       </div>
       <div className='relative group'>
-        <a href="https://www.hackerrank.com/profile/janithnanayakka1" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.hackerrank.com/profile/gayanidewindi" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={HackerRank} alt="HackerRank" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
       </div>
       <div className='relative group'>
-        <a href="https://www.sololearn.com/en/profile/20719058" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.sololearn.com/en/profile/27942528" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={SoloLearn} alt="SoloLearn" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
