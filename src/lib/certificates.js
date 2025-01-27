@@ -2,25 +2,28 @@
 import JavaHR from "../assets/Certificate/Android_Application_GL.png";
 import ProblemSL from "../assets/Certificate/Angular_GL.png";
 import UOMPY from "../assets/Certificate/Billd_Game_JavaStript.png";
-import UOMWeb from "../assets/Certificate/client-server.png";
+import UOMWeb from "../assets/Certificate/client-server UOM.png";
 import DataScience from "../assets/Certificate/Coding_Eng_GL.png"
 import JQuery from "../assets/Certificate/CSS_Oppetion.png"
 import PHP from "../assets/Certificate/Data_Strat_GL.png"
 import Angular from "../assets/Certificate/DesingThinking_GL.png"
 import DevTown from "../assets/Certificate/DevOps_GL.png"
-import DevTown1 from "../assets/Certificate/dew2.png"
+import DevTown1 from "../assets/Certificate/Devlown.png"
 import Python from "../assets/Certificate/Dow01.png"
+import Front from "../assets/Certificate/Frond-End WebDevelopment UOM.png"
+import Game from "../assets/Certificate/Game_GL.png"
 import Javascript from "../assets/Certificate/greatleaning-java.jpeg"
 import CodingForMarkert from "../assets/Certificate/greatleaning-oop.jpeg"
 import ReactAndRedux from "../assets/Certificate/greatlening-css.jpeg"
 import ResponsiveWebDesign from "../assets/Certificate/grUxUi.png.jpeg"
 import SQL from "../assets/Certificate/HTTML_TAG_GL.png"
-import IntroductionTOJava from "../assets/Certificate/java s.png"
+import IntroductionTOJava from "../assets/Certificate/Introduction to JavaScriptsolo.png"
+import HackerJava from "../assets/Certificate/java Basic HackerRank.png"
 import SQLSOLO from "../assets/Certificate/JavaApplication.png"
-import CSSSOLO from "../assets/Certificate/javah.png"
+import HackJavaScript from "../assets/Certificate/javaScriptHackerRank.png"
 import JsSolo from "../assets/Certificate/jQuriy_GL.png"
-import JavaSolo from "../assets/Certificate/MOratuw02.png"
-import Front from "../assets/Certificate/mortu.png"
+import CSSSOLO from "../assets/Certificate/Mongodb Tutorial.png"
+import JavaSolo from "../assets/CertificateWebDesingn UOM.png"
 import WebDev from "../assets/Certificate/salolearn-java.jpg"
 import simple from "../assets/Certificate/simpleUi.png"
 import solo from "../assets/Certificate/sololearn-html.jpg"
@@ -57,6 +60,9 @@ export const certificates = [
   { id: 26, title: "Web Developer Internship", date: "13 Jan 2023", image: solosql },
   { id: 27, title: "Web Developer Internship", date: "13 Jan 2023", image: sqlhack },
   { id: 28, title: "Web Developer Internship", date: "13 Jan 2023", image: vistion },
+  { id: 28, title: "Web Developer Internship", date: "13 Jan 2023", image: Game },
+  { id: 28, title: "Web Developer Internship", date: "13 Jan 2023", image: HackerJava },
+  { id: 28, title: "Web Developer Internship", date: "13 Jan 2023", image: HackJavaScript },
 
 
 
