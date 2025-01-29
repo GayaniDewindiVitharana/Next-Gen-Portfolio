@@ -22,7 +22,7 @@ const Count = () => {
       {/* Projects Section */}
       <div className="flex flex-row my-4 ml-4">
         <h1 className="text-7xl lg:text-8xl text-[#22CD6F] font-bold">
-          +<CountUp end={30} duration={3} />
+          +<CountUp end={20} duration={3} />
         </h1>
         <div className="flex flex-col justify-center ml-4">
           <p className="text-xl lg:text-lg md:text-base sm:text-sm font-bold text-[#868686]">
@@ -37,11 +37,11 @@ const Count = () => {
       {/* Years of Experience Section */}
       <div className="flex flex-row ml-24">
         <h1 className="text-7xl lg:text-8xl text-[#22CD6F] font-bold">
-          +<CountUp end={3} duration={1} />
+          +<CountUp end={6} duration={1} />
         </h1>
         <div className="flex flex-col justify-center ml-4">
           <p className="text-xl lg:text-lg md:text-base sm:text-sm font-bold text-[#868686]">
-            Year of
+            month of
           </p>
           <p className="text-3xl lg:text-2xl md:text-xl sm:text-lg text-[#ffffff]">
             Experience

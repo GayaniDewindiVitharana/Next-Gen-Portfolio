@@ -3,8 +3,6 @@ import { Link } from "react-scroll";
 import { motion } from "framer-motion";
 import HeroImage from "../assets/Home/imgeavt.png";
 import HeroBck from "../assets/Home/HomeBG.png";
-import IntroVideo from "../assets/Home/intro.mp4";
-import PlayButton from "../assets/Home/PlayButton.png";
 import SocialMedia from "./SocialMedia";
 
 const Hero = () => {
@@ -130,11 +128,11 @@ const Hero = () => {
             onClick={openVideo}
             className="flex items-center justify-center p-3 border-none"
           >
-            <img
+            {/* <img
               src={PlayButton}
               alt="Play Video"
               className="w-[55px] h-[55px]"
-            />
+            /> */}
           </button>
         </motion.div>
 
