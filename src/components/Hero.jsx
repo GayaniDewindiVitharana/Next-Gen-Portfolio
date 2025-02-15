@@ -153,7 +153,7 @@ const Hero = () => {
         <motion.img
       src={HeroImage}
       alt="Hero"
-      className="w-[700px] md:w-auto h-auto max-w-full object-center"
+      className="w-[900px] md:w-auto h-auto max-w-full object-center mr-[200px] mt-[-150px]"
       variants={imageVariants}
       initial="hidden"
       animate="visible"
