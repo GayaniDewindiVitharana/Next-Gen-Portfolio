@@ -25,13 +25,13 @@ const SocialMedia = () => {
         </a>
       </div>
       <div className='relative group'>
-        <a href="https://dribbble.com/Janith_Nanayakkara" target="_blank" rel="noopener noreferrer">
+        <a href="https://dribbble.com/Gayani_Vitharana" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={Dribble} alt="Dribble" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
       </div>
       <div className='relative group'>
-        <a href="https://x.com/Mr_Janiya_SE" target="_blank" rel="noopener noreferrer">
+        <a href="https://x.com/Gayani_SE" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={X} alt="X" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
@@ -62,7 +62,7 @@ const SocialMedia = () => {
         </a>
       </div>
       <div className='relative group'>
-        <a href="https://www.figma.com/@janithinduwaran" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.figma.com/@gayanivitharana" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={Figma} alt="Figma" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
