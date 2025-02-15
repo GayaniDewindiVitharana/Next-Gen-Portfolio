@@ -23,7 +23,7 @@ const Navbar = ({ handleNavClick }) => {
 
   return (
     <div className='flex items-center justify-between max-w-auto font-bold px-10 text-black bg-[#000000] border-b-[0.1px] border-[#08D665] z-50'>
-      <p className="font-bold uppercase" style={defaultLinkStyle}>Janith.</p>
+      <p className="font-bold uppercase" style={defaultLinkStyle}>Gayani.</p>
       <h1 className='w-full text-3xl font-bold text-[#00df9a]'></h1>
       <ul className='hidden font-normal tracking-wide uppercase lg:flex'>
         <li className='p-4 cursor-pointer'>
