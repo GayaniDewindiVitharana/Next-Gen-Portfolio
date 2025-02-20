@@ -67,7 +67,7 @@ const Navbar = ({ handleNavClick }) => {
         {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
       </div>
       <div className={`fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000000] ease-in-out duration-500 z-50 transform ${nav ? 'translate-x-0' : '-translate-x-full'}`}>
-        <p className="font-bold uppercase" style={defaultLinkStyle}>Janith.</p>
+        <p className="font-bold uppercase" style={defaultLinkStyle}>Gayani.</p>
         <h1 className='w-full text-3xl font-bold text-[#00df9a] m-4'></h1>
         <ul className='p-4 tracking-wide uppercase'>
           <li className='p-4 cursor-pointer'>

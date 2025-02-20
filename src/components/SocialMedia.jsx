@@ -36,12 +36,12 @@ const SocialMedia = () => {
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
       </div>
-      <div className='relative group'>
+      {/* <div className='relative group'>
         <a href="https://web.facebook.com/janith.nanayakkara.35/" target="_blank" rel="noopener noreferrer">
           <img className='w-10 h-10 duration-200 group-hover:scale-110' src={FB} alt="Facebook" />
           <div className='absolute inset-0 w-full h-full transition-opacity duration-200 bg-[#22CD6F] rounded-full opacity-0 group-hover:opacity-50'></div>
         </a>
-      </div>
+      </div> */}
       {/* New social media icons */}
       <div className='relative group'>
         <a href="h https://stackoverflow.com/users/21185624/gayani-vitharana" target="_blank" rel="noopener noreferrer">
