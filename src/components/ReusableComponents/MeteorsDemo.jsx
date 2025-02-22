@@ -1,6 +1,6 @@
 import React from "react";
 import { Meteors } from "../ui/meteors";
-import MyCV from "../../assets/About/CV.pdf";
+import MyCV from "../../assets/About/Gayani_Vitharana.pdf";
 
 export function MeteorsDemo() {
   return (

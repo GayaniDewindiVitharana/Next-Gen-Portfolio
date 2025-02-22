@@ -47,16 +47,7 @@ const Navbar = ({ handleNavClick }) => {
           </Link>
         </li>
         {/* Update Blog link */}
-        <li className='p-4 cursor-pointer'>
-          <a 
-            href="https://janithnanayakkarablog.wordpress.com/?_gl=1*13d8ll9*_gcl_au*MTQ5Mjg4ODY3OS4xNzMzMDQwMDY5" 
-            target="_blank" 
-            rel="noopener noreferrer" 
-            style={defaultLinkStyle}
-          >
-            Blog
-          </a>
-        </li>
+  
         <li className='p-4 cursor-pointer'>
           <Link to="contact" smooth={true} duration={500} style={defaultLinkStyle} spy={true} activeStyle={activeLinkStyle} onClick={handleNavClick}>
             Contact

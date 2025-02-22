@@ -29,6 +29,7 @@ import Game from "../assets/Certificate/Game_GL.png"
 import greatleaningcss from "../assets/Certificate/greatlening-css.jpeg"
 import greatleaningjava from "../assets/Certificate/greatleaning-java.jpeg"
 import vistion from "../assets/Certificate/Vistion_GL.png"
+import Reacthak from "../assets/Certificate/hackerankRact.png";
 
 
 export const certificates = [
@@ -62,4 +63,5 @@ export const certificates = [
   { id: 28, title: "Java Programming", date: "on February 2023", image: greatleaningjava },
   { id: 29, title: "visual studio online", date: "on September 2023", image: vistion },
   { id: 30, title: "Coding Enviroment", date: "on February 2024", image: coding },
+  { id: 31, title: "React", date: "25 Jan 2025", image: Reacthak },
 ];

@@ -12,9 +12,9 @@ const Project = () => {
 
   const certificates = [
     { id: 1, title: 'Zest Furry', date: 'Website for premium cinnamon and spice products, built with React, Vite, and Tailwind CSS.', image: ProjectImage1 },
-    { id: 2, title: 'Great Frozen', date: 'Showcasing premium fruit pulp products with a responsive design and SEO optimization.', image: ProjectImage2 },
-    { id: 3, title: 'Ramoda Clothing', date: 'Modern eCommerce site for trendy fashion, optimized for performance and SEO.', image: ProjectImage3 },
-    { id: 4, title: 'Legion Streaming', date: 'Gaming portfolio designed for streamers, focusing on performance and immersive visuals.', image: LegionStreaming },
+    { id: 2, title: 'Great Frozen', date: 'Showcasing premium fruit pulp products with a responsive design.', image: ProjectImage2 },
+    { id: 3, title: 'Ramoda Clothing', date: 'Modern eCommerce site for trendy fashion Design UI.', image: ProjectImage3 },
+    { id: 4, title: 'Legion Streaming', date: 'Gaming portfolio designed for streamers, focusing on Develop Fornt-end.', image: LegionStreaming },
   ];
 
   const handlePrev = () => {
